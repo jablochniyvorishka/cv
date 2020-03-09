@@ -1273,6 +1273,7 @@ input, select, textarea {
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
+			padding-top: 5px;
 		}
 
 			#header .logo .icon:before {
